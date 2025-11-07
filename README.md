@@ -3,7 +3,6 @@
 ###  M.S. Engineering Management & Leadership @ Rice University | Ex-KPMG | Data & Strategy Enthusiast  
 
 I’m a results-driven engineering management professional passionate about combining **data analytics, business strategy, and technology** to drive organizational growth. My experience spans digital transformation, process optimization, and client relationship management across Fortune 500 and startup ecosystems. I’m motivated by solving complex business problems using data-driven decision-making and cross-functional collaboration.
-
 ---
 
 ##  Experience  
