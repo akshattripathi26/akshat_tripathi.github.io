@@ -1,7 +1,7 @@
 # Hi there, I'm Akshat Tripathi 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshat-tripathi-)[cite: 3]
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshat.tripathi26@gmail.com)[cite: 3]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshat-tripathi-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshat.tripathi26@gmail.com)
 
 **Engineering Management Graduate Student @ Rice University** | **Ex-KPMG Senior Analyst** | **Data Strategy & GTM Specialist**
 
