@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Executive Summary
+##  Executive Summary
 
 Graduate student in Engineering Management and Leadership at Rice University with a background spanning **management consulting, go-to-market strategy, and data engineering**[cite: 3]. Experienced in analyzing complex business operations, driving cross-functional alignment, and delivering scalable AI and data solutions across SaaS and enterprise environments[cite: 3].
 
