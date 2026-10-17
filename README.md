@@ -1,50 +1,90 @@
-#  Hi, I'm Akshat Tripathi  
+# Hi there, I'm Akshat Tripathi 👋
 
-###  M.S. Engineering Management & Leadership @ Rice University | Ex-KPMG | Data & Strategy Enthusiast  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshat-tripathi-)[cite: 3]
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshat.tripathi26@gmail.com)[cite: 3]
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](#-interactive-streamlit-dashboard)
 
-I’m a results-driven engineering management professional passionate about combining **data analytics, business strategy, and technology** to drive organizational growth. My experience spans digital transformation, process optimization, and client relationship management across Fortune 500 and startup ecosystems. I’m motivated by solving complex business problems using data-driven decision-making and cross-functional collaboration.
-
----
-
-##  Experience  
-
-**Senior Analyst – Advisory | KPMG, India (Jan 2024 – Nov 2024)**  
-- Delivered **$10M in process efficiency**, enabling 25% business growth across multiple sectors.  
-- Collaborated cross-functionally with finance, marketing, and procurement teams to implement digitalization initiatives.  
-- Awarded *Employee of the Quarter* for resolving key client challenges and onboarding strategic clients.  
-
-**Marketing Associate | LogiNext, Mumbai (Aug 2022 – Oct 2023)**  
-- Generated BANT-qualified leads across the Americas, onboarding clients worth **$100K ARR**.  
-- Represented LogiNext at industry events like **NRF Retail** and **Parcel Forum**, expanding client engagement networks.  
-
-**Account-Based Marketing Intern | HighRadius (May 2021 – Jul 2022)**  
-- Worked on optimizing *order-to-cash* processes using FinTech automation tools.  
-- Ranked **8th out of 50 interns** in solution training for finance and analytics.  
+**Engineering Management Graduate Student @ Rice University** | **Ex-KPMG Senior Analyst** | **Data Strategy & GTM Specialist**
 
 ---
 
-##  Projects & Case Work  
+## 📌 Executive Summary
 
-- **Digitalization Revenue Model (KPMG):** Designed a data-driven framework improving revenue tracking efficiency by 25%.  
-- **GTM Strategy Optimization:** Supported Go-To-Market strategy design using stakeholder mapping and CRM analytics.  
-- **FinTech Workflow Automation (HighRadius):** Implemented automation to enhance AR collection and credit processes.  
-- **CRM Integration Analysis (LogiNext):** Led CRM data migration and campaign segmentation using HubSpot and Salesforce.  
+Graduate student in Engineering Management and Leadership at Rice University with a background spanning **management consulting, go-to-market strategy, and data engineering**[cite: 3]. Experienced in analyzing complex business operations, driving cross-functional alignment, and delivering scalable AI and data solutions across SaaS and enterprise environments[cite: 3].
 
 ---
 
-##  Technical & Soft Skills  
+## ⚡ Key Highlights & Metrics
 
-**Technical Skills:**  
-Python | C++ | Data Analytics | CRM (HubSpot, Salesforce) | Apollo.io | ZoomInfo | Microsoft Office  
-
-**Professional & Soft Skills:**  
-Leadership | Strategic Thinking | Client Relationship Management | Stakeholder Communication | Cross-Functional Collaboration | GTM Strategy | Problem Solving  
+* 💰 **$500 Million Pipeline Generated:** Launched targeted ABM campaigns at HighRadius by segmenting accounts and mapping order-to-cash journeys[cite: 3].
+* 🚀 **$100,000 ARR Converted:** Closed enterprise account at LogiNext by matching solution capabilities directly to client decision criteria[cite: 3].
+* 🏆 **Recognition & Merit:** KPMG Employee of the Quarter / Rising Star[cite: 3] & Rice University Merit Scholarship ($20,000)[cite: 3].
+* 🎓 **Academic Excellence:** 3.87 / 4.0 GPA in Electronics & Communication Engineering[cite: 3].
 
 ---
 
-##  Documents & Links  
+## 🛠️ Tech Stack & Domain Capabilities
 
-📄 [View My Resume (PDF)](./Akshat_Resume.pdf)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/akshat-tripathi-153785205)  
-🌐 [Personal Website / Portfolio](#) *(Add when ready)*  
-📧 **Email:** [akshat.tripathi26@gmail.com](mailto:akshat.tripathi26@gmail.com)
+* **Programming Languages:** Python, C++, C[cite: 3]
+* **Data Science & AI:** Predictive Modeling (Linear Regression)[cite: 3], AI Agent Architecture[cite: 3], Data Visualization[cite: 3], Process Optimization[cite: 3]
+* **Analytics & Business Tools:** Salesforce, HubSpot CRM, LinkedIn Sales Navigator, Apollo.io, ZoomInfo, Jira, Asana, Miro[cite: 3]
+* **Methodologies:** Lean Six Sigma (Green Belt)[cite: 3], Agile/Sprint Management[cite: 3], Go-to-Market (GTM) Strategy[cite: 3], BANT Account Qualification[cite: 3]
+
+---
+
+## 💼 Professional Experience
+
+### 🏛️ **Rice University** | *Teaching Assistant — Data Science for Engineering Leaders*
+*(Aug 2026 – Dec 2026 | Houston, TX)*[cite: 3]
+* Supporting graduate-level coursework in statistical and computational methods for engineering managers[cite: 3].
+* Delivered classification lectures and leading GitHub workshops to build practical data science fluency[cite: 3].
+
+### 🤖 **System Innovations** | *Project Lead & Data Engineer Intern*
+*(May 2026 – Aug 2026 | Houston, TX)*[cite: 3]
+* Led end-to-end delivery of **ScholarIE Engen**, an AI-powered student coaching platform[cite: 3].
+* Collaborated with AI engineers to design system architecture and data management strategies for autonomous conversational AI agents[cite: 3].
+
+### 📊 **KPMG** | *Senior Analyst — Advisory Department*
+*(Jan 2024 – Nov 2024)*[cite: 3]
+* Analyzed finance, operations, and logistics workflows for Fortune 500 clients to identify digital transformation and revenue enhancement opportunities[cite: 3].
+* Executed root-cause analyses and process remediation; awarded **Employee of the Quarter / Rising Star**[cite: 3].
+
+### 🚚 **LogiNext** | *Marketing Associate*
+*(Aug 2022 – Oct 2023)*[cite: 3]
+* Spearheaded market discovery across the Americas, qualifying enterprise accounts and gathering voice-of-customer insights at industry forums[cite: 3].
+
+### 💳 **HighRadius** | *Account-Based Marketing Intern*
+*(May 2021 – Jul 2022)*[cite: 3]
+* Mapped order-to-cash fintech capabilities across credit, collections, and cash application journeys[cite: 3].
+
+---
+
+## 🎓 Education & Certifications
+
+* **M.S. in Engineering Management & Leadership** — Rice University *(Aug 2025 – Dec 2026)*[cite: 3]
+  * *Coursework:* Project & Product Management, Engineering Leadership, Data Science, Data Visualization, Lean Six Sigma[cite: 3].
+* **B.Tech. in Electronics & Communication Engineering** — SRM Institute of Science & Technology *(GPA: 3.87/4.0)*[cite: 3]
+* **Certifications:**
+  * IBM Applied AI Certificate[cite: 3]
+  * Lean Green Belt & Six Sigma Green Belt Certifications[cite: 3]
+  * KPMG Rising Star Award[cite: 3]
+  * Rice University Merit Scholarship ($20,000)[cite: 3]
+
+---
+
+## 🚀 Interactive Streamlit Dashboard
+
+This repository contains a full multi-page Streamlit portfolio and analytics app (`Main.py`).
+
+### Local Setup Instructions
+
+```bash
+# 1. Clone the repository
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+cd your-repo-name
+
+# 2. Install dependencies
+pip install -r requirements.txt
+
+# 3. Launch the dashboard
+streamlit run Main.py
