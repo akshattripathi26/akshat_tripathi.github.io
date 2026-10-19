@@ -3,7 +3,7 @@ layout: default
 title: UPS Parcel Freight Cost Analysis
 ---
 
-[← Back to portfolio](../)
+[← Back to portfolio](./)
 
 # UPS Parcel Freight Cost Analysis
 
@@ -15,7 +15,7 @@ title: UPS Parcel Freight Cost Analysis
 | **Data** | UPS Parcel Dataset 2025: shipment-level freight invoices with 70+ fields (charges, surcharges, weights, zones, services, dates) covering a domestic lane (Plymouth, MI → US) and an international import lane (Belgium → Australia / UK) |
 | **Tools** | Python, pandas, NumPy, matplotlib, seaborn, Google Colab |
 | **Context** | Rice University course project |
-| **Code** | [View the notebook](https://github.com/akshattripathi26/akshat_tripathi.github.io/blob/main/notebooks/ups_freight_cost_analysis.ipynb) |
+| **Code** | [View the notebook](https://github.com/akshattripathi26/akshat_tripathi.github.io/blob/main/ups_freight_cost_analysis.ipynb) |
 
 ## Results at a glance
 
@@ -76,4 +76,4 @@ Twelve views, each ending in a quantified result:
 - Add automated outlier detection for unexpectedly high charges, to support invoice auditing.
 - Model the net savings of consolidation after accounting for heavier combined boxes.
 
-[← Back to portfolio](../)
+[← Back to portfolio](./)

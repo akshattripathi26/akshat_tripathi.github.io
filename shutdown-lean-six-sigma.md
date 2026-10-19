@@ -3,7 +3,7 @@ layout: default
 title: Reducing Planned Shutdown Duration (Lean Six Sigma)
 ---
 
-[← Back to portfolio](../)
+[← Back to portfolio](./)
 
 # Reducing Planned Shutdown Duration in Oil & Gas Construction
 
@@ -36,7 +36,7 @@ Planned shutdowns in oil and gas construction can run **up to 6 months**, causin
 
 ## Measure: the gap
 
-![Current vs target shutdown duration and scope share](../assets/img/projects/lean-current-vs-target.png)
+![Current vs target shutdown duration and scope share](lean-current-vs-target.png)
 
 About 60% of foundation work, 70% of piping, and 50% of electrical scope is currently executed inside the shutdown window. The targets bring those shares down to ≤20%, ≤30%, and ≤25%.
 
@@ -44,7 +44,7 @@ About 60% of foundation work, 70% of piping, and 50% of electrical scope is curr
 
 The delay is **systemic, not just operational**. Causes cluster across six categories: process, people and coordination, materials and procurement, planning and scheduling, measurement and control, and scope and change management.
 
-![Fishbone diagram of root causes for extended shutdown duration](../assets/img/projects/lean-fishbone.jpg)
+![Fishbone diagram of root causes for extended shutdown duration](lean-fishbone.jpg)
 
 ## Improve: three solution pillars
 
@@ -60,7 +60,7 @@ The delay is **systemic, not just operational**. Causes cluster across six categ
 <details>
 <summary>View the future-state process map</summary>
 
-<img src="../assets/img/projects/lean-process-map.jpg" alt="Future-state shutdown process map" width="420">
+<img src="lean-process-map.jpg" alt="Future-state shutdown process map" width="420">
 
 </details>
 
@@ -83,4 +83,4 @@ The delay is **systemic, not just operational**. Causes cluster across six categ
 
 Reduce shutdown time by **moving non-critical work out of the shutdown window**, rather than trying to compress everything inside it. This protects the critical path, lowers cost, and makes the schedule more predictable.
 
-[← Back to portfolio](../)
+[← Back to portfolio](./)
