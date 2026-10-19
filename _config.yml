@@ -1,4 +1,6 @@
-title: [Akshat Tripathi]
+title: Akshat Tripathi
+description: Engineering Management (Rice University) · Project, Product & Data Strategy
 logo: "images/WhatsApp Image 2025-11-06 at 18.56.45_afeb14c9.jpg"
-decription: Technical Product Manager with Focus in Data Science
 theme: jekyll-theme-minimal
+exclude:
+  - notebooks

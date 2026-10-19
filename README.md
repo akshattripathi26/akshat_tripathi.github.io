@@ -24,29 +24,30 @@ Graduate student in Engineering Management and Leadership at Rice University wit
 
 ## Featured Analytics & Engineering Projects
 
-### UPS Freight & Logistics Cost Optimization
-* **Domain:** Supply Chain Analytics, Cost Engineering & Descriptive Modeling
-* **Overview:** Evaluated parcel freight data to identify core cost drivers, surcharge exposure, zone pricing dynamics, and multi-box consolidation opportunities.
-* **Key Highlights:**
-  * Determined that the top 2 shipping services account for approximately 95% of total freight expenditure.
-  * Discovered that surcharges and fuel fees comprise ~25% of net invoice charges, serving as a primary target for contract renegotiation.
-  * Applied Pareto distribution mapping to isolate high-density delivery addresses and quantify same-day multi-box consolidation savings.
+### Last-Mile Delivery Risk Predictor (QSR delivery, Egypt)
+*Machine Learning · Logistics Operations · Python, scikit-learn* — **[Read the case study →](projects/last-mile-delivery.html)** · [Notebook](https://github.com/akshattripathi26/akshat_tripathi.github.io/blob/main/notebooks/last_mile_delivery_classification.ipynb)
 
-### McDonald's Egypt Last-Mile Delivery Predictor
-* **Domain:** Operations Research, Machine Learning & Logistics
-* **Overview:** Built a binary classification framework to predict whether last-mile deliveries fulfill the 30-minute customer promise window at the moment of dispatch.
-* **Key Highlights:**
-  * Developed a Logistic Regression model achieving a 0.86 ROC-AUC score using pre-dispatch features (allocation delay, route ETA, dispatch slack).
-  * Established that auto-allocated orders dispatch substantially faster than manually assigned orders, directly driving higher on-time fulfillment rates.
-  * Implemented a risk-stratification scoring system to alert operational supervisors when dispatch slack falls below critical thresholds.
+![Auto vs manual allocation: on-time rate and dispatch delay](assets/img/projects/delivery-auto-vs-manual.jpg)
 
-### Oil & Gas Planned Shutdown Optimization (Lean Six Sigma)
-* **Domain:** Industrial Engineering, Operations Research & DMAIC
-* **Overview:** Designed a Lean Six Sigma framework to compress planned refinery/plant shutdown durations through scope realignment and stage-gate readiness control.
-* **Key Highlights:**
-  * Formulated a strategy transferring non-critical path activities (foundations, pre-fabrication, tray routing) into the pre-shutdown phase.
-  * Targeted a 50% reduction in plant downtime (from 6 months down to 3 months) while improving schedule predictability.
-  * Established stage-gate readiness metrics requiring a >=75% pre-shutdown completion rate and a >=50% reduction in field rework.
+* Predicted, at the moment of dispatch, whether an order would miss the 30-minute promise, using 18,395 cleaned orders from LogiNext's auto-allocation platform.
+* Reframed a weak regression (R² 0.16) into a classification problem: logistic regression reached **0.86 ROC-AUC** (5-fold CV 0.855 ± 0.011) and **caught 71% of late orders**.
+* Showed that auto-allocated orders were on time **86% vs 50%** for manual ones (median dispatch delay of 1 vs 13 min), and proposed risk bands plus a supervisor alert when slack drops below 5 min.
+
+### UPS Parcel Freight Cost Analysis
+*Supply Chain Analytics · Cost Engineering · Python, pandas* — **[Read the case study →](projects/ups-freight-cost.html)** · [Notebook](https://github.com/akshattripathi26/akshat_tripathi.github.io/blob/main/notebooks/ups_freight_cost_analysis.ipynb)
+
+* Cleaned a year of shipment-level UPS invoices (70+ fields) and built 12 cost views: service mix, surcharges, zones, Pareto concentration, consolidation, and import landed cost.
+* Found that **two services ≈ 95% of spend** and that **surcharges and fees ≈ 25%**, and that far zones cost **≈2.6× more per lb** than near zones.
+* Turned the findings into contract levers (a fuel-surcharge cap, accessorial waivers) and operational ones (same-day consolidation, account-level agreements).
+
+### Reducing Planned Shutdown Duration (Lean Six Sigma, Oil & Gas)
+*Lean Six Sigma · DMAIC · Project Management · 4-person team* — **[Read the case study →](projects/shutdown-lean-six-sigma.html)**
+
+![Current vs target shutdown duration and scope share](assets/img/projects/lean-current-vs-target.png)
+
+* Chartered a DMAIC project to cut planned shutdowns from **~6 to ~3 months** (target) by moving non-critical work out of the shutdown window.
+* Ran fishbone root-cause analysis across six categories and designed three solution pillars: scope optimization, execution methods, and planning readiness.
+* Built a control plan with owners, cadence, and stage-gate triggers: **≥75% pre-shutdown completion** before start and **≥50% less rework**.
 
 ### ScholarIE Engen — AI Student Application Coaching Platform
 * **Domain:** Artificial Intelligence & Data Engineering
