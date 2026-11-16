@@ -53,9 +53,16 @@ Engineering Management graduate student at Rice University (graduating December 
 ### ScholarlE Engen: AI Student Application Coaching Platform
 *AI Product Delivery · Project Management · Data Management*
 
-* Led cross-functional delivery of an AI-powered coaching platform that helps students with scholarship applications, as part of Rice's Summer Engineering Innovation Program (SEIP).
-* Held three roles: project manager, AI co-implementer, and data manager. I worked with AI engineers on data architecture and system feasibility for the conversational AI agent.
-* Ran sprint planning, client communication, and technical execution across a team of engineers and consultants.
+### [ScholarlE Engen: AI scholarship coach](scholarle-engen.html)
+*Technical Project Lead, AI co-implementer and Data manager | System Innovations, Rice SEIP 2026*
+
+*Led cross-functional delivery of a six-agent AI coaching platform (LangGraph, FastAPI, Chroma, GPT-4o) that guides students through scholarship applications without writing the essay for them.
+*Designed an eight-metric, research-grounded essay scoring rubric and a rule-based compliance agent.
+*Built the profile and story question sets and a self-updating scholarship wiki.
+
+[![ScholarlE architecture](scholarle-architecture.png)](scholarle-engen.html)
+
+[Read the case study](scholarle-engen.html)
 
 ---
 
