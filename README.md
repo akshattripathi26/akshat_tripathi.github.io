@@ -51,18 +51,14 @@ Engineering Management graduate student at Rice University (graduating December 
 * Built a control plan with owners, cadence, and stage-gate triggers: **≥75% pre-shutdown completion** before start and **≥50% less rework**.
 
 ### ScholarlE Engen: AI Student Application Coaching Platform
-*AI Product Delivery · Project Management · Data Management*
-
-### [ScholarlE Engen: AI scholarship coach](scholarle-engen.html)
-*Technical Project Lead, AI co-implementer and Data manager | System Innovations, Rice SEIP 2026*
-
-*Led cross-functional delivery of a six-agent AI coaching platform (LangGraph, FastAPI, Chroma, GPT-4o) that guides students through scholarship applications without writing the essay for them.
-*Designed an eight-metric, research-grounded essay scoring rubric and a rule-based compliance agent.
-*Built the profile and story question sets and a self-updating scholarship wiki.
-
-[![ScholarlE architecture](scholarle-architecture.png)](scholarle-engen.html)
-
-[Read the case study](scholarle-engen.html)
+*AI Product Delivery · Project Management · Data Management · Python, LangGraph, FastAPI* · **[Read the case study →](scholarle-engen.html)** · [Project overview](https://github.com/akshattripathi26/SEIP_2026)
+![ScholarlE Engen system architecture](scholarle-architecture.png)
+* Led cross-functional delivery of an AI-powered coaching platform that guides students through scholarship applications without writing the essay for them, built as part of Rice's Summer Engineering Innovation Program (SEIP) at System Innovations.
+* Held three roles: project manager, AI co-implementer, and data manager. Co-designed a six-agent LangGraph pipeline (planning, fit check, retrieval, coaching, evaluation, final submission check) with dual Chroma vector stores and a FastAPI backend.
+* Designed an **eight-metric essay scoring rubric** (prompt alignment, authenticity, specificity, AI-likeness and more) grounded in three research papers, and built a rule-based compliance agent that tells students what to fix before they submit.
+![Eight-metric scoring rubric](scholarle-scoring-metrics.png)
+* Built a ~38-question eligibility profile form and six scene-level story prompts, plus a weekly scheduled agent that keeps the scholarship wiki current without sending students to outside sites.
+* Ran sprint planning, a nine-week delivery plan with risk-rated features, and weekly client meetings. Reworked the workflow and user story map from client feedback, and repaired a codebase with merge conflicts across eight files so the pipeline ran again.
 
 ---
 
